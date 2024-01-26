@@ -1,0 +1,13 @@
+{
+  "Name": "Spike Test",
+  "CustomerId": "spike_test",
+  "Number": "card_number",
+  "BinNumber": "bin_number",
+  "LastFour": "1111",
+  "ExpirationDate": "02/2026",
+  "Cvv": "123",
+  "Brand": "Visa",
+  "AppId": "business",
+  "Enabled": true,
+  "Blocked": false
+}
